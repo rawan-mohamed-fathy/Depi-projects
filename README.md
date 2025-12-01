@@ -4,7 +4,6 @@
 
 💡 I am passionate about software quality, building reliable systems, and improving user experience through effective testing.
 🧪 I work with **Manual Testing, Selenium WebDriver, TestNG, API Testing (Postman), Java, Git, and Maven**.
-📍 Based in Egypt.
 
 ---
 
