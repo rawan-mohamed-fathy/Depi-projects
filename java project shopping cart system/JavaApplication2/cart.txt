@@ -1,0 +1,4 @@
+laptop (quantity: 3) = $2999.97
+Phone (quantity: 3) = $1798.47
+Headphones (quantity: 3) = $299.97
+Total Price: $5098.41
